@@ -1,6 +1,6 @@
 ## Docker Redis-trib
 
-*inem0o/redis-trib* is a small Docker image () based on Alpine Linux ([read more about Alpine Linux](http://gliderlabs.viewdocs.io/docker-alpine/)) providing Redis-trib.
+*inem0o/redis-trib* is a small Docker image [![](https://badge.imagelayers.io/inem0o/redis-trib:latest.svg)](https://imagelayers.io/?images=inem0o/redis-trib:latest '') based on [Alpine Linux](http://gliderlabs.viewdocs.io/docker-alpine/) providing Redis-trib.
 
 *Redis-trib* is a command line tool executing commands to manage a Redis cluster
 
