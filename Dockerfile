@@ -5,6 +5,8 @@ RUN apk-install \
   ruby \
   ruby-bundler \
   ruby-dev \
+  ruby-rdoc \
+  ruby-irb \
   && gem install redis
 
 
